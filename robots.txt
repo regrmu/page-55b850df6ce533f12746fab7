@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-460d130030.youxiangtuan.cn/sitemap.xml
